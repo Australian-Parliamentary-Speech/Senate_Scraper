@@ -1,5 +1,5 @@
 [ global ]
-    output_path = "../../Outputs/hansard"
+    output_path = "../../SenateCSV/hansard"
 
 ###choose one: XML or XML_DIR
 #[[ XML ]]
@@ -12,5 +12,5 @@
 [ general_options ]
     csv_exist = false
     edit = ["re","free_node","flatten"]
-    year = [2024,2024]
+    year = [1901,1901]
     overwrite = true
