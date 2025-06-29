@@ -1,7 +1,6 @@
 Inputs/**/*.xml
-Outputs/hansard/**/*.csv
-Outputs/saved_hansard/**/*.csv
-Outputs/**/*.sh
+SenateCSV/hansard/**/*.csv
+SenateCSV/**/*.sh
 **/*.png
 **/*.pdf
 **/*.txt
@@ -10,6 +9,5 @@ Outputs/**/*.sh
 **/*.zip
 **/*.tar.gz
 Inputs/hansard/download_utils.jl
-Analysis/*
 /docs/build/
 Manifest.toml
